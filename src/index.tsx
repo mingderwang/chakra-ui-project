@@ -2,12 +2,12 @@ import * as React from "react";
 import { render } from "react-dom";
 import { ChakraProvider } from "@chakra-ui/react";
 
-import App from "./App";
+import SimpleSidebar from "./App";
 
 const rootElement = document.getElementById("root");
 render(
   <ChakraProvider>
-    <App />
+    <SimpleSidebar children={undefined} />
   </ChakraProvider>,
   rootElement
 );

@@ -1,6 +1,7 @@
 {
   "name": "sandpack-project",
   "main": "/index.tsx",
+  "version": "v0.0.1",
   "dependencies": {
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
