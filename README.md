@@ -1,7 +1,7 @@
 # chakra-ui-project
 
-refer to https://chakra-templates.dev/navigation/navbar
+refer to https://chakra-templates.dev/navigation/sidebar
 
 # demo
 
-https://chakra-templates.dev/navigation/navbar
+https://chakra-ui-project.vercel.app/
